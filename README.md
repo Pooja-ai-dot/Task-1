@@ -73,6 +73,7 @@ header {
   font-size: 1.5rem;
   font-weight: bold;
   color: #0077cc;
+  padding-left: 70px;
 }
 
 .nav-links {
